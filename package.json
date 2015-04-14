@@ -1,0 +1,17 @@
+{
+  "name": "Project Name",
+  "version": "0.0.1",
+  "description": "Project Description",
+  "author": "Project Author <author@project.com>",
+  "scripts": {
+    "start": "nodemon server.coffee 3000"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.1",
+    "requirejs": "^2.1.6",
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4",
+    "gulp-coffee": "^2.3.1",
+    "gulp-compass": "^2.0.3"
+  }
+}
