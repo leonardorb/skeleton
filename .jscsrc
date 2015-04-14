@@ -28,7 +28,7 @@
   ],
   "disallowSpaceAfterPrefixUnaryOperators": ["++", "--", "+", "-", "~", "!"],
   "disallowSpaceAfterObjectKeys": true,
-  "requireAlignedObjectValues": "all",
+  "requireAlignedObjectValues": "ignoreFunction",
   "requireAnonymousFunctions": true,
   "requireCamelCaseOrUpperCaseIdentifiers": true,
   "requireCommaBeforeLineBreak": true,
